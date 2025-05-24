@@ -59,14 +59,7 @@ Product Page
 - Feature detection for modern APIs
 - Vendor prefixing in CSS
 - Progressive enhancement approach
-- Tested on Chrome, Firefox, Safari, and Edge
+- Tested on Chrome, Firefox
 
-## Technical Specifications
 
-- **Frontend**: Vanilla HTML5, CSS3, JavaScript (ES6+)
-- **Performance**: 95+ Lighthouse score
-- **Responsive Breakpoints**: 
-  - Mobile: < 768px
-  - Tablet: 768px - 991px
-  - Desktop: 992px+
 
