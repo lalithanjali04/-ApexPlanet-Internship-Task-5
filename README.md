@@ -1,10 +1,36 @@
 # -ApexPlanet-Internship-Task-5
-# ApexPlanet - E-Commerce Web Application
+🛍️ ApexPlanet - Online Tech Store
+A simple e-commerce website for tech gadgets, built with HTML, CSS & JavaScript.
+
+🌟 Features
+Browse products by category
+
+View product details with images
+
+Add items to cart
+
+Fast loading with optimized images
+
+🚀 How to Use
+Download the project files
+
+Open index.html in any browser
+
+That's it! No setup needed
+
+Home Page
 
 ![image](https://github.com/user-attachments/assets/37d5641f-21c9-4b1a-afae-0d6100cda585)
 
+Product Page
 
-ApexPlanet is a fully responsive e-commerce web application built with HTML, CSS, and JavaScript, designed to showcase modern web development practices with a focus on performance, responsiveness, and cross-browser compatibility.
+![image](https://github.com/user-attachments/assets/0956ed2a-3ccb-43d7-9e18-348329c08ffc)
+
+🔧 What I Focused On
+✔️ Made everything work smoothly
+✔️ Optimized images for fast loading
+✔️ Ensured it works on all devices
+✔️ Clean and simple code
 
 ## Features
 
@@ -44,34 +70,3 @@ ApexPlanet is a fully responsive e-commerce web application built with HTML, CSS
   - Tablet: 768px - 991px
   - Desktop: 992px+
 
-This project was developed as a capstone project to demonstrate comprehensive web development skills, with specific attention to:
-
-Full Web Application Development
-
-Implemented complete e-commerce functionality
-
-Dynamic product rendering with JavaScript
-
-Interactive UI components
-
-Performance Optimization
-
-Achieved Lighthouse performance score of 95+
-
-Implemented lazy loading for images
-
-Optimized CSS and JavaScript delivery
-
-Cross-Browser Compatibility
-
-Verified functionality on:
-
-Chrome (latest)
-
-Firefox (latest)
-
-Safari (macOS and iOS)
-
-Edge (latest)
-
-Mobile responsiveness tested on various device sizes
