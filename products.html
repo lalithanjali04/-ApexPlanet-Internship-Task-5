@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - ApexPlanet</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"></noscript>
+</head>
+<body>
+    <!-- Header (Same as index.html) -->
+    <header class="header">
+        <!-- Copy header from index.html -->
+    </header>
+
+    <!-- Product Listing Section -->
+    <section class="product-listing">
+        <div class="container">
+            <h1>Our Products</h1>
+
+            <div class="filters">
+                <!-- Category Filter -->
+                <div class="filter-group">
+                    <button class="filter-btn active" data-category="all">All Categories</button>
+                    <button class="filter-btn" data-category="smartphones">Smartphones</button>
+                    <button class="filter-btn" data-category="laptops">Laptops</button>
+                    <button class="filter-btn" data-category="accessories">Accessories</button>
+                </div>
+
+                <!-- Sort Dropdown -->
+                <div class="sort-group">
+                    <select id="sort-by" class="sort-select">
+                        <option value="default">Sort By</option>
+                        <option value="price-low">Price: Low to High</option>
+                        <option value="price-high">Price: High to Low</option>
+                        <option value="name">Name (A-Z)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="products-grid" id="all-products">
+                <!-- Products will load here via JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer (Same as index.html) -->
+    <footer class="footer">
+        <!-- Copy footer from index.html -->
+    </footer>
+
+    <script src="js/main.js" defer></script>
+    <script src="js/lazy-load.js" defer></script>
+</body>
+</html>
